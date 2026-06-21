@@ -1,6 +1,6 @@
-# WebGL Shader Sandbox
+# T-Shirt Shader
 
-A playground for experimenting with WebGL shaders using React, Three.js, and React Three Fiber.
+An interactive 3D t-shirt experience with customizable WebGL shaders using React, Three.js, and React Three Fiber.
 
 ## Prerequisites
 
