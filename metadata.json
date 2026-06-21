@@ -1,0 +1,6 @@
+{
+  "name": "WebGL Shader Sandbox",
+  "description": "An interactive React Three Fiber environment for writing, testing, and debugging custom WebGL vertex and fragment shaders with real-time controls and pre-configured templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
